@@ -1,0 +1,1 @@
+** I wanted to create a responsive a weather app that allows anyone to search any city for a 5-day forecast. 
